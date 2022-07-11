@@ -1,0 +1,1 @@
+DB_nat2020 <- read.csv(file="./BDD/nat2020.csv")
